@@ -68,15 +68,3 @@ If stuck:
 - try next possibility
 
 This process continues until the puzzle is solved.
-
----
-
-## Project Structure
-
-```text
-CodeAlpha_Sudoku_Solver/
-│
-├── sudoku.cpp
-├── README.md
-├── output.png
-└── report.pdf
